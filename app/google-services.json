@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100165272862",
+    "firebase_url": "https://pwdstore-a8ee3.firebaseio.com",
+    "project_id": "pwdstore-a8ee3",
+    "storage_bucket": "pwdstore-a8ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100165272862:android:3f59fbc7bb0d6c1e86b50f",
+        "android_client_info": {
+          "package_name": "com.harshanand.pwdstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100165272862-b0b2dqr0c03v7n0cfo5gikdbh36upli3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY5Fbl6TO07mtKjqha3y6y4ZJzBGbHaFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100165272862-b0b2dqr0c03v7n0cfo5gikdbh36upli3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
